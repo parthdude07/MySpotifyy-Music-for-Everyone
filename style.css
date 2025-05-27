@@ -2,6 +2,9 @@
     margin: 3px;
     padding: 2px;
 }
+.flex{
+display:flex;
+}
 .box{
     border-radius: 5px;
     background-color: rgb(233, 226, 217);
